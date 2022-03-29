@@ -1,4 +1,4 @@
-# Traffic-Flow-Estimation
+# Traffic Flow Estimation
 
 This project aims at estimating traffic flow from CCTV footage. We have trained the YOLOv4 algorithm for the five vehicle classes given below,
 
